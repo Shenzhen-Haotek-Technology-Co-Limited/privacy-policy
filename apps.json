@@ -1,0 +1,53 @@
+{
+  "company": {
+    "legal_name": "Shenzhen Haotek Technology Co., Limited",
+    "contact_email": "george@haotek.com",
+    "website": "https://github.com/Shenzhen-Haotek-Technology-Co-Limited",
+    "address": "",
+    "last_updated": "2026-10-26"
+  },
+  "apps": [
+    {
+      "id": "mobilecam",
+      "name": "MobileCam",
+      "category": "dashcam",
+      "short_desc": "a dash camera (dashcam) companion application",
+      "contact_email": "george@haotek.com"
+    },
+    {
+      "id": "camboss",
+      "name": "CamBoss",
+      "category": "dashcam",
+      "short_desc": "a dash camera (dashcam) companion application",
+      "contact_email": "george@haotek.com"
+    },
+    {
+      "id": "wifi-qr",
+      "name": "Wi-Fi QR",
+      "category": "wifi_tool",
+      "short_desc": "a Wi-Fi QR code scanner and generator application",
+      "contact_email": "george@haotek.com"
+    },
+    {
+      "id": "o-visionride",
+      "name": "O-VisionRide",
+      "category": "dashcam",
+      "short_desc": "a dash camera (dashcam) companion application",
+      "contact_email": "george@haotek.com"
+    },
+    {
+      "id": "aukeydash",
+      "name": "AukeyDash",
+      "category": "dashcam",
+      "short_desc": "a dash camera (dashcam) companion application",
+      "contact_email": "george@haotek.com"
+    },
+    {
+      "id": "papago-link",
+      "name": "PAPAGO!Link",
+      "category": "dashcam",
+      "short_desc": "a dash camera (dashcam) companion application",
+      "contact_email": "george@haotek.com"
+    }
+  ]
+}
